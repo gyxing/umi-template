@@ -1,1 +1,1 @@
-# umi-template
+# umi-template-ts
